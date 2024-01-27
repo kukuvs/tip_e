@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "8f03fd54fb9bcffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff497dd5ea7add5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb6c1d98958411f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Семестр/стандартизация/Лицензирование деятельности в сфере информатизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10a207718635377d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc7cda35ae4552e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca287626ad45b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf891766bb4c3410",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "858fb357002a61e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aef323fb2cbdc613",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35c52bdf3f4648df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b56a4d1b6882100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "755229e0e392f0e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f84f0aa3fb044614",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9ff60ecaa5b9eb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ac1e5b2e4aac6e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cee51f11bbc75595",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "27f89e74d6403691",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f599fa3212c0306b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "10a207718635377d",
+  "lastOpenFiles": [
+    "1Семестр/Термины по истории-ОРГ/Нацизм.md",
+    "1Семестр/История/19лекция.md",
+    "1Семестр/История/23лекция.md",
+    "Без названия.md",
+    "1Семестр/стандартизация/Лицензирование деятельности в сфере информатизации.md",
+    "Без названия",
+    "2Семестр",
+    "1Семестр",
+    "1Семестр/ОРГ/Последняя лекция.md",
+    "1Семестр/История/22Лекция.md",
+    "1Семестр/История/21лекция.md",
+    "1Семестр/История/10лекция.md",
+    "1Семестр/История/5лекция.md",
+    "1Семестр/Термины по истории-ОРГ/Левые.md",
+    "1Семестр/Термины по истории-ОРГ/Правые.md",
+    "1Семестр/Термины по истории-ОРГ/Империализм.md",
+    "1Семестр/Термины по истории-ОРГ/Модернизация.md",
+    "1Семестр/История/8лекция.md",
+    "1Семестр/Термины по истории-ОРГ/смута.md",
+    "1Семестр/История/12лекция.md",
+    "1Семестр/История/9Лекция.md",
+    "1Семестр/стандартизация",
+    "1Семестр/Термины по истории-ОРГ/предмет взятки.md",
+    "Термины по истории/Без названия.md",
+    "1Семестр/ОРГ",
+    "1Семестр/История/7лекция.md",
+    "1Семестр/История/6лекция.md",
+    "1Семестр/История/3лекция.md",
+    "Recording 20231204143644.webm",
+    "1Семестр/История/11лекция.md",
+    "1Семестр/Термины по истории-ОРГ/эммиссия.md",
+    "История/Неподтверждено 656946.crdownload",
+    "Recording 20231203231342.webm",
+    "История/Неподтверждено 201847.crdownload",
+    "Recording 20231203231221.webm",
+    "Без названия.canvas"
+  ]
+}
