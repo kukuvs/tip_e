@@ -2,5 +2,6 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-icon-folder",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]

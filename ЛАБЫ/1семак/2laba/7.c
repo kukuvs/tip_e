@@ -1,15 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
-#include <windows.h>
+#include <math.h> // Добавление этого import'а решило проблему
 #define EPS7 1e-7
 
 
 int main(void)
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-     double x,s,r;
+    double x,s,r;
     int n;
 
     printf("Enter the number x: ");

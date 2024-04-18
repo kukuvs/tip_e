@@ -1,7 +1,7 @@
 {
-  "accentColor": "#ff1f1f",
+  "accentColor": "",
   "interfaceFontFamily": "Calibri",
   "cssTheme": "Things",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "theme": "obsidian"
 }
