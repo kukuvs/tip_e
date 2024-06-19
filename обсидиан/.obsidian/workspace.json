@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop/Атрибут.md",
+                "file": "oop/метод.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,15 +197,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f445b9292e1d1abc",
+  "active": "41af2aae775da225",
   "lastOpenFiles": [
+    "oop/Инкапсуляция.md",
+    "oop/Атрибут.md",
+    "oop/метод.md",
+    "oop/Классы.md",
     "oop/интерфейс.md",
     "oop/1 задание егэ.md",
-    "oop/Атрибут.md",
-    "oop/Классы.md",
     "oop/конструктор.md",
     "oop/Интерфейс.md",
-    "oop/Инкапсуляция.md",
     "oop/Наследование.md",
     "oop/Объект.md",
     "oop/Метод.md",
@@ -227,7 +228,6 @@
     "1Семестр/История/2лекция.md",
     "oop",
     "языки",
-    "2Семестр/История/1A +.md",
     "языки/java",
     "2Семестр/менеджмент",
     "2Семестр/История/практика история",
