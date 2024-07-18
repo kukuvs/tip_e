@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop/Инкапсуляция.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41af2aae775da225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "oop/Атрибут.md",
+                "file": "oop/Наследование.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop/метод.md",
+                "file": "oop/методы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oop/Атрибут.md",
+                "file": "oop/Наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oop/Атрибут.md",
+                "file": "oop/Наследование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oop/Атрибут.md"
+                "file": "oop/Наследование.md"
               }
             }
           },
@@ -183,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,35 +185,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41af2aae775da225",
+  "active": "f19a7e4784a08fda",
   "lastOpenFiles": [
-    "oop/Инкапсуляция.md",
-    "oop/Атрибут.md",
-    "oop/метод.md",
+    "oop/Объекты.md",
     "oop/Классы.md",
-    "oop/интерфейс.md",
-    "oop/1 задание егэ.md",
-    "oop/конструктор.md",
-    "oop/Интерфейс.md",
     "oop/Наследование.md",
-    "oop/Объект.md",
-    "oop/Метод.md",
-    "oop/Конструктор.md",
-    "oop/шаблон.md",
-    "Класс.md",
+    "oop/OOPV.canvas",
+    "oop/Pasted image 20240619042830.png",
+    "Recording 20240619051528.webm",
     "языки/java/переменные и массивы.md",
-    "Без названия.canvas",
-    "2Семестр/термины/Код-ревью.md",
-    "Объект.md",
-    "шаблон 1.md",
-    "().md",
-    "[методов.md",
-    "методов.md",
-    "1Семестр/История/19лекция.md",
-    "1Семестр/История/22Лекция.md",
+    "1Семестр/Термины по истории-ОРГ/вотчина.md",
+    "1Семестр/История/8лекция.md",
     "1Семестр/История/23лекция.md",
+    "Без названия.md",
+    "Pasted image 20240619042832.png",
+    "oop/Инкапсуляция.md",
+    "Pasted image 20240619042850.png",
+    "Pasted image 20240619042848.png",
+    "oop/шаблон.md",
+    "2Семестр/Управление качеством программного обеспечения/1..md",
+    "2Семестр/термины/Спецификация требований.md",
+    "2Семестр/термины/Код-ревью.md",
+    "2Семестр/История/2А+.md",
+    "2Семестр/менеджмент/1 лекция.md",
+    "2Семестр/История/1A +.md",
+    "1Семестр/ОРГ/Последняя лекция.md",
     "1Семестр/История/7лекция.md",
-    "1Семестр/История/2лекция.md",
+    "1Семестр/История/9Лекция.md",
+    "1Семестр/История/10лекция.md",
+    "1Семестр/История/11лекция.md",
+    "1Семестр/История/12лекция.md",
+    "1Семестр/История/19лекция.md",
+    "1Семестр/История/21лекция.md",
+    "1Семестр/История/22Лекция.md",
     "oop",
     "языки",
     "языки/java",
@@ -234,7 +226,6 @@
     "2Семестр/термины",
     "2Семестр/Управление качеством программного обеспечения",
     "2Семестр/История",
-    "2Семестр",
-    "1Семестр"
+    "2Семестр"
   ]
 }

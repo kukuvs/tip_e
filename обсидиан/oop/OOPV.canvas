@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b67d4bd59453e8b7","type":"file","file":"oop/Классы.md","x":-440,"y":-360,"width":400,"height":400},
+		{"id":"e60ee22a79251814","type":"file","file":"oop/Объекты.md","x":200,"y":-40,"width":400,"height":400},
+		{"id":"7342a4027829d966","type":"file","file":"oop/методы.md","x":200,"y":-480,"width":400,"height":400},
+		{"id":"7364e4953d6c9bdb","type":"file","file":"oop/Атрибут.md","x":200,"y":-920,"width":400,"height":400},
+		{"id":"38e3111beeb341ce","type":"file","file":"oop/конструктор.md","x":200,"y":400,"width":400,"height":400},
+		{"id":"1f6df238ed1a027f","type":"file","file":"oop/Pasted image 20240619042830.png","x":-1840,"y":-516,"width":555,"height":312},
+		{"id":"042d816888344201","type":"file","file":"oop/Инкапсуляция.md","x":-940,"y":-360,"width":400,"height":400},
+		{"id":"8a87b3d509f3400c","type":"file","file":"oop/Наследование.md","x":-940,"y":-920,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0d8450b127f01f08","fromNode":"b67d4bd59453e8b7","fromSide":"right","toNode":"7364e4953d6c9bdb","toSide":"left"},
+		{"id":"c82fc90238d5796e","fromNode":"b67d4bd59453e8b7","fromSide":"right","toNode":"7342a4027829d966","toSide":"left"},
+		{"id":"bc99caf989d9a474","fromNode":"b67d4bd59453e8b7","fromSide":"right","toNode":"e60ee22a79251814","toSide":"left"},
+		{"id":"d3869aba80f5cc79","fromNode":"042d816888344201","fromSide":"right","toNode":"b67d4bd59453e8b7","toSide":"left"},
+		{"id":"a143ea4ea9ad95a0","fromNode":"8a87b3d509f3400c","fromSide":"bottom","toNode":"b67d4bd59453e8b7","toSide":"top"},
+		{"id":"7cad4e4cb756383f","fromNode":"b67d4bd59453e8b7","fromSide":"right","toNode":"38e3111beeb341ce","toSide":"left"},
+		{"id":"c4032a356a42471c","fromNode":"1f6df238ed1a027f","fromSide":"right","toNode":"8a87b3d509f3400c","toSide":"left"},
+		{"id":"54390d9e4f0eb22d","fromNode":"1f6df238ed1a027f","fromSide":"right","toNode":"042d816888344201","toSide":"left"}
+	]
+}
