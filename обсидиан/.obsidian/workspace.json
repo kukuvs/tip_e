@@ -11,15 +11,24 @@
             "id": "f19a7e4784a08fda",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0590bd9dddb6981f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "языки/Js/Типы данных.md",
+                "file": "промт.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "языки/Js/Типы данных.md",
+                "file": "промт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "языки/Js/Типы данных.md",
+                "file": "промт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "языки/Js/Типы данных.md"
+                "file": "промт.md"
               }
             }
           },
@@ -158,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +181,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f19a7e4784a08fda",
+  "active": "0590bd9dddb6981f",
   "lastOpenFiles": [
+    "языки/go/Многопоточность.md",
     "языки/go/Типы данных.md",
-    "языки/Js/Типы данных.md",
-    "языки/java/Типы данных простые.md",
-    "языки/java/Структура языка.md",
-    "языки/go/Без названия.md",
-    "языки/Js",
+    "языки/go/Обработка ошибок.md",
+    "языки/go/Механизм паники (panic).md",
+    "языки/go/GO.md",
+    "oop/Классы.md",
+    "oop/Объекты.md",
+    "oop/OOPV.canvas",
+    "oop/методы.md",
+    "oop/Атрибут.md",
     "языки/java/Многопоточность и Асинхронность.md",
+    "2024-07-26.md",
+    "языки/java/Структура языка.md",
+    "языки/java/Типы данных простые.md",
+    "языки/Js/Типы данных.md",
+    "языки/Js",
     "языки/go",
     "языки/go.md",
     "промт.md",
@@ -195,15 +212,6 @@
     "1Семестр/Термины по истории-ОРГ/Нацизм.md",
     "1Семестр/История/19лекция.md",
     "1Семестр/История/7лекция.md",
-    "1Семестр/История/3лекция.md",
-    "сложные.md",
-    "Типы.md",
-    "Типыданныхсложные.md",
-    "oop/Наследование.md",
-    "oop/Атрибут.md",
-    "oop/методы.md",
-    "Лекция 1. Понятие и виды управления.md",
-    "oop/OOPV.canvas",
     "oop/Pasted image 20240619042830.png",
     "Recording 20240619051528.webm",
     "Pasted image 20240619042832.png",
