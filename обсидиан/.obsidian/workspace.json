@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "промт.md",
+                "file": "1Семестр/История/8лекция.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "промт.md",
+                "file": "1Семестр/История/8лекция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "промт.md",
+                "file": "1Семестр/История/8лекция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "промт.md"
+                "file": "1Семестр/История/8лекция.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "0590bd9dddb6981f",
   "lastOpenFiles": [
+    "языки/java/Структура языка.md",
+    "промт.md",
     "языки/go/Многопоточность.md",
     "языки/go/Типы данных.md",
     "языки/go/Обработка ошибок.md",
@@ -195,13 +197,11 @@
     "oop/Атрибут.md",
     "языки/java/Многопоточность и Асинхронность.md",
     "2024-07-26.md",
-    "языки/java/Структура языка.md",
     "языки/java/Типы данных простые.md",
     "языки/Js/Типы данных.md",
     "языки/Js",
     "языки/go",
     "языки/go.md",
-    "промт.md",
     "ссылка.md",
     "языки/java/Типы данных сложные.md",
     "[[Типы.md",
