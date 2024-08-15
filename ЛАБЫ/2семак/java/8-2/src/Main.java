@@ -1,8 +1,5 @@
 import java.util.concurrent.BlockingQueue;
 
-
-
-
 // Класс, представляющий событие
 class SportEvent {
     private String eventName;
